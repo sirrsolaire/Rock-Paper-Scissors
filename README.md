@@ -1,1 +1,1 @@
-Practicing JavaScript fundamentals creating a simple rock paper scissor game.
+Practicing JavaScript fundamentals creating a simple rock paper scissors game.
